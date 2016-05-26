@@ -8,7 +8,7 @@
 
 require_once "Calc.php";
 
-$calc = new Calc(10);
+$calc = new Calc(20);
 $calc->Calc();
 
 //echo $calc->getGoodBye();
