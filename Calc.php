@@ -10,7 +10,7 @@ class Calc {
 
     function Calc() {
         for ($i = 0; $i <= $this->hello; $i++) {
-            $this->goodbye = $this->goodbye + $i;
+            $this->goodbye = $this->goodbye + $i+1;
         }
     }
 
