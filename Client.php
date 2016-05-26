@@ -6,7 +6,7 @@
  * Time: 2:49 PM
  */
 
-require_once "Calc.php";
+require_once "Calc.php"; haha boooom!!
 
 $calc = new Calc(10);
 $calc->Calc();
